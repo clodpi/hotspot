@@ -1,3 +1,9 @@
+---
+title: My amazing post
+redirect_from:
+  - /
+---
+
 ## ClodPi Pro Hotspot Miner
 
 You can use the [editor on GitHub](https://github.com/clodpi/hotspot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
