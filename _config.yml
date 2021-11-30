@@ -2,3 +2,6 @@ theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-redirect-from
+
+name: ClodPi Labs - Docs & Manuals
+title: null
