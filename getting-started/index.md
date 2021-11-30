@@ -1,7 +1,9 @@
 ---
-layout: redirected
-sitemap: false
-permalink: /getting-started/
-redirect_to:  https://raw.githubusercontent.com/clodpi/hotspot/gh-pages/docs/getting-started.pdf
+title: ClodPi Pro Hotspot Miner
+redirect_from:
+  - /
 ---
 
+## ClodPi Pro Hotspot Miner
+
+Getting started guide: [getting-started](https://raw.githubusercontent.com/clodpi/hotspot/gh-pages/docs/getting-started.pdf)
