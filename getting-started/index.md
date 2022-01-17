@@ -6,4 +6,4 @@ redirect_from:
 
 ## ClodPi Pro Hotspot Miner
 
-Getting started guide: [getting-started](https://raw.githubusercontent.com/clodpi/hotspot/gh-pages/docs/getting-started.pdf)
+Getting started guide: https://discuss.clodpi.io/docs?category=5&topic=17
